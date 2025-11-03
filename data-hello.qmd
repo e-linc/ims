@@ -263,7 +263,7 @@ We consider data for 3,142 counties in the United States, which includes the nam
 How might these data be organized in a data frame?[^01-data-hello-4]
 :::
 
-[^01-data-hello-4]: Each county may be viewed as a case, and there are eleven pieces of information recorded for each case.
+[^01-data-hello-4]: Each county may be viewed as a case, and there are fourteen pieces of information recorded for each case.
     A table with 3,142 rows and 14 columns could hold these data, where each row represents a county and each column represents a particular piece of information.
 
 The data described in the Guided Practice above represents the `county` dataset, which is shown as a data frame in @tbl-county-df.
